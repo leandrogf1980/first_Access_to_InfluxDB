@@ -1,4 +1,4 @@
-# Primeiro Acesso ao InfluxDB e Configuração no Jmeter
+# Primeiro Acesso ao InfluxDB
 
 1- Acesse o InfluxDB através da URL: http://localhost:8086/ (a porta irá depender do que foi definido na instalação do InfluxDB).
 
@@ -18,5 +18,3 @@
 Obs.: Esse token só é gerado e exibido apenas uma vez, caso não tenha anotado, precisará repetir o procedimento anterior.
 
 ![image](https://user-images.githubusercontent.com/126198206/221860231-bab60703-5d88-474e-b3ad-708663f440d0.png)
-
-## Configuração do InfluxDB no JMeter
